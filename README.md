@@ -3,6 +3,8 @@ How to run
 npm run dev
 npm install lucide-react
 
+User u can register then login
+
  Tech Stack
 
 - React.js – Front-end UI library
